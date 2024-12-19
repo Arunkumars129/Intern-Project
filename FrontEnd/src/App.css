@@ -1,0 +1,13 @@
+.QuestionInput{
+    position:sticky;
+    bottom: 0;
+    z-index: 999 !important;
+}
+
+/* nav Bar */
+
+.nav-item :hover{
+    background: #77c8ce;
+    border-radius: 10px;
+    transition: all 1s;
+}
